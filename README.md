@@ -82,9 +82,10 @@ Detalles sobre las respuestas y parámetros requeridos.
 🛤️ Rutas Principales
 📌 Tareas
 Método	Endpoint	Descripción
-GET	/tasks	Obtiene todas las tareas.
+GET	/api/tasks	Obtiene todas las tareas.
+GET	/api/tasks/:id	Obtiene todas las tareas por ID.
 POST	/tasks	Crea una nueva tarea.
-PATCH	/tasks/:id	Actualiza una tarea existente.
+PUT	/tasks	Permite actualizar los campos de una tarea.
 DELETE	/tasks/:id	Elimina una tarea por ID.
 ✅ Validación de Datos
 El backend utiliza Express-Validator para garantizar que los datos enviados por los clientes sean válidos y seguros. Esto incluye:
