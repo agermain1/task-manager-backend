@@ -62,7 +62,7 @@ Para que este proyecto funcione correctamente, necesitas tener MongoDB instalado
 
 Recomendamos visitar la página oficial de MongoDB para encontrar las instrucciones más actualizadas y específicas para tu sistema operativo:
 
-👉 Guía de Instalación de MongoDB
+👉 Guía de Instalación de MongoDB: https://www.mongodb.com/docs/manual/installation/
 
 Nota Importante:
 Asegúrate de que MongoDB esté ejecutándose localmente antes de iniciar el backend del proyecto.
