@@ -41,29 +41,25 @@ Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 
 Clona el Repositorio:
 
-bash
-Copy code
+
 git clone https://github.com/tu-usuario/task-manager-backend.git
 cd task-manager-backend
 Instala las Dependencias:
 
-bash
-Copy code
+
 npm install
 Configura el Entorno: Crea el archivo .env como se indicó anteriormente.
 
 Ejecuta el Servidor:
 
-bash
-Copy code
+
 npm start
 El servidor se ejecutará en http://localhost:4000 (o el puerto que hayas definido).
 
 📜 Documentación de las API
 Este proyecto incluye documentación interactiva generada con Swagger. Una vez que el servidor esté en funcionamiento, accede a la documentación en la siguiente URL:
 
-bash
-Copy code
+
 http://localhost:4000/api-docs
 Funcionalidades Principales:
 Visualización de los endpoints disponibles.
