@@ -56,6 +56,20 @@ Ejecuta el Servidor:
 npm start
 El servidor se ejecutará en http://localhost:4000 (o el puerto que hayas definido).
 
+
+Instalación de MongoDB
+Para que este proyecto funcione correctamente, necesitas tener MongoDB instalado y ejecutándose en tu computadora.
+
+Recomendamos visitar la página oficial de MongoDB para encontrar las instrucciones más actualizadas y específicas para tu sistema operativo:
+
+👉 Guía de Instalación de MongoDB
+
+Nota Importante:
+Asegúrate de que MongoDB esté ejecutándose localmente antes de iniciar el backend del proyecto.
+Por defecto, el proyecto utiliza la siguiente configuración para conectarse a MongoDB en el archivo .env:
+
+
+
 📜 Documentación de las API
 Este proyecto incluye documentación interactiva generada con Swagger. Una vez que el servidor esté en funcionamiento, accede a la documentación en la siguiente URL:
 
