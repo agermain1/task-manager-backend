@@ -42,7 +42,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 Clona el Repositorio:
 
 
-git clone https://github.com/tu-usuario/task-manager-backend.git
+git clone https://github.com/agermain1/task-manager-backend.git
 cd task-manager-backend
 Instala las Dependencias:
 
